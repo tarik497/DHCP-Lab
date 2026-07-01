@@ -173,7 +173,7 @@ ping 128.1.0.1
 
 ## 👨‍💻 Author
 
-**Tarek Hamraoui**
+**Tarik Hamraoui**
 
 Feel free to explore the project, suggest improvements, or use it for learning purposes.
 
