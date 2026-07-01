@@ -22,4 +22,4 @@ Each lab folder includes:
 - Network verification and troubleshooting
 
 ## Author
-**Tarek Hamraoui**
+**Tarik Hamraoui**
